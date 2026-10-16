@@ -1,0 +1,29 @@
+// FF2 Pad03 — multisample render of a MIT-licensed Firefly Synth 2 factory patch (Pads). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=Pad03__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-2.6
+
+<region>
+sample=Pad03__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=1.2
+
+<region>
+sample=Pad03__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=2.7
+
+<region>
+sample=Pad03__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=3.0
+
+<region>
+sample=Pad03__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=3.7

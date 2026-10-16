@@ -1,0 +1,29 @@
+// FF2 Synth02 — multisample render of a MIT-licensed Firefly Synth 2 factory patch (Synths). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=Synth02__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=0.1
+
+<region>
+sample=Synth02__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=2.8
+
+<region>
+sample=Synth02__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=5.0
+
+<region>
+sample=Synth02__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=6.0
+
+<region>
+sample=Synth02__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=5.8

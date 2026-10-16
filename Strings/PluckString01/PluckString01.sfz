@@ -1,0 +1,29 @@
+// FF2 PluckString01 — multisample render of a MIT-licensed Firefly Synth 2 factory patch (Strings). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=PluckString01__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=1.1
+
+<region>
+sample=PluckString01__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=0.6
+
+<region>
+sample=PluckString01__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=4.6
+
+<region>
+sample=PluckString01__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=11.7
+
+<region>
+sample=PluckString01__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=16.3

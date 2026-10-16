@@ -1,0 +1,29 @@
+// FF2 Bass04 — multisample render of a MIT-licensed Firefly Synth 2 factory patch (Basses). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=Bass04__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=8.1
+
+<region>
+sample=Bass04__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=8.6
+
+<region>
+sample=Bass04__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=9.3
+
+<region>
+sample=Bass04__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=10.4
+
+<region>
+sample=Bass04__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=12.2
